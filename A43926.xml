@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the golden-eagle being both delightfull and profitable. Written by Philaquila.</title>
+            <author>Philaquila.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43926</idno>
+            <idno type="STC">Wing H2161</idno>
+            <idno type="STC">ESTC R215197</idno>
+            <idno type="EEBO-CITATION">99827148</idno>
+            <idno type="PROQUEST">99827148</idno>
+            <idno type="VID">31564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1887:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the golden-eagle being both delightfull and profitable. Written by Philaquila.</title>
+                  <author>Philaquila.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Thackeray in Duck-Lane, near West Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31564:1" rendition="simple:additions"/>
+            <p>THE HISTORY OF THE Golden-Eagle: Being Both delightfull and profitable.</p>
+            <p>Written by <hi>Philaquila.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Thackeray</hi> in <hi>Duck-Lane,</hi> near <hi>Weſt Smithfield,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31564:2"/>
+            <pb facs="tcp:31564:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:31564:3"/>
+            <pb facs="tcp:31564:3"/>
+            <head>The Hiſtory of the GOLDEN-EAGLE.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. </head>
+               <argument>
+                  <p>How Albertus King of Arigon falling into a languiſhing diſeaſe, was adviſed by his Phyſitians to provide for death, the news being ſpread over the Countrey, many Magitians came to him, who told him, that if he could recover the golden Eagle from the Queen of Ivy-land, he ſhould queſtionleſs recover his health.</p>
+               </argument>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Lbertus</hi> having of late buried the ſoul of his life <hi>Lycimmena,</hi> his moſt indulgent Quéen, fell into extreme melancholly, which as it is commonly the Parent of all diſeaſes, ſo it brought him into a moſt tedious and languiſh<g ref="char:EOLhyphen"/>ing ſickneſs, which cauſed him to make mone both day and night, witneſs the bitter groanes, and paſsionate expreſsions for the ldſs of his de<g ref="char:EOLhyphen"/>parted Conſort: at laſt, being importuned by ſeveral of his Nobles, and hourely intreated by his thrée Sonnes, <hi>Ph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onzo, Cruentius,</hi> and <hi>Innocentine,</hi> he conſented to ſend for the chief<g ref="char:EOLhyphen"/>eſt Doctors in thoſe parts to conſult about the ſtate and welfare of his body; which Doctors being arrived, were preſently con<g ref="char:EOLhyphen"/>ducted to the Kings Chamber, at whoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the King broke out into theſe ſad expreſsions:</p>
+               <p>
+                  <hi>YE are come to looke upon a declining King, ye may endeavour to uſe your skils, but I am confident your labours will be loſt. Alas, my diſeaſe is too inward to be found out, and if ye cure
+<pb facs="tcp:31564:4"/>me, it muſt be more by miracle then skill: If ye can cure an almoſt broken heart, or repaire my halfe decayed lungs, or reſtore my near waſted breath, then draw near, but Alas my Lyſimena and there his ſighs denying him liberty of ſpeech, he made ſignes to be no more troubled, and turning from the company, and almoſt from his own ſenſes, he groaned himſelf into a deep melancholly.</hi>
+               </p>
+               <p>The Doctors as yet being not throughly acquainted with his diſeaſe, verily ſuppoſed him departing, but it probed otherwiſe; for his Sonnes and the reſt of the Nobilitie informing the Doctors of his griefe, deſired them to uſe their beſt endeavours for his recoverie, which accordingly they did, but finding little hopes of life, in reſpect that the diſtemper of his mind had ſo much impaired the temper of his body, they only preſcribed him cordials, which indéed ſomething revived and exhilarated his ſpirits, but could not give the leaſt hopes of life, in reſpect that nature was much extenuated and weakned by his extraordinary melancholly.</p>
+               <p>The King whether leſs inſenſible of his diſeaſe, or ſomewhat more enlivened by the preſcriptions of the Doctors, deſtres two of the ableſt of them to be brought unto him, of whom he de<g ref="char:EOLhyphen"/>manded their frée and abſolute opinions; The Doctors after a ſhort pauſe, who having more reſpect to conſcience then gaine, told him that they might prolong, but not cure, and being about to procéed into further diſcourſe, there ſuddenly came in ſome of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nobilitie and whiſpered with one of the Doctors, which the King perceiving, demanded the cauſe, to which his Nobilitie replyed, that there were newly arrived ſeveral Magicians, who hearing of his Majeſties diſtemper, came out of affectionate duty to imploy their skils for his recoverie; the King hearing this, diſmiſt the Doctors, and admitted the Magitians, who being entred, and after the performance of their ſeveral duties, ap<g ref="char:EOLhyphen"/>plyed themſelves in this manner:</p>
+               <p>Moſt Renowned Sir, We the moſt humbleſt of all your ſer<g ref="char:EOLhyphen"/>vants, being by report informed of your Majeſties heavy and grievous diſeaſe, have by our induſtry found out a meanes which (though it may ſeem impoſsible to your Majeſtie) will without
+<pb facs="tcp:31564:4"/>queſtion reſtore you to your former health, which meanes (craving the favour of your Majeſties parience) we ſhall forth<g ref="char:EOLhyphen"/>with <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cover.</p>
+               <p>Know then moſt excellent Prince, that under the juris<g ref="char:EOLhyphen"/>diction of <hi>Agrippina,</hi> that moſt famous and invincible Quéen of <hi>Ivy-land,</hi> there is a golden Eagle, in whom there is a ſecret and infallible remedy for your diſeaſe; therefore if any of thoſe heroicke ſpirits which are belonging to your Majeſtie, that will endeavour to procure this Eagle, your Majeſties life will que<g ref="char:EOLhyphen"/>ſtionleſs be preſerved, we ſhall not therefore trouble your Maje<g ref="char:EOLhyphen"/>ſties eares; with any further relation, but leave your Majeſtie to the proſecution of what we have relateds, only we will be bold to deſire your Majeſtie not to be doubtful, for be than your Majeſtie ſhall leaſt reſpect or expect, ſhall performe this dange<g ref="char:EOLhyphen"/>rous and almoſt impoſsible deſigne, ſo we leave your Majeſty to your moſt ſerious conſiderations.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The Magitians being gone, the King ſends for his three Sonnes, and acquaints them with what the Magitians had told him, proffering to divide his eſtate between them if them could re<g ref="char:EOLhyphen"/>cover the Eagle from the Queen of Ivy-land, wiſhing them to take what treaſure they would for their occaſions.</p>
+               </argument>
+               <p>THe Magitians being departed, the King immediately gave command that his thrée Sonnes ſhould come unto him, and they as diligent to obey, as he was willing to command, forth<g ref="char:EOLhyphen"/>with preſented themſelves before him; The King after ſome diſcourſe, told them that now his dayes were near finiſhed, and nature began ſo much to decline in him, that he was paſt the skill of Doctors; therefore let me adviſe you as a dying Fa<g ref="char:EOLhyphen"/>ther, that as ye were born brothers in Nature, ſo to continue in affection. Sir replyed the eldeſt, if it pleaſe the Gods to diſpoſe of you to death <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> labour for that portion of con<g ref="char:EOLhyphen"/>tent
+<pb facs="tcp:31564:5"/>which may be proportionable to our ſorrows; for the de<g ref="char:EOLhyphen"/>crees of Fate are not to be reſiſted, and our reaſon tells us, that what we cannot remedy we muſt patiently endure, but for my part (I dere ſay as much for my brothers) I would wil<g ref="char:EOLhyphen"/>lingly hazard my life for the prolongation of yours. Sir, I hope that you will pleaſe to apprehend that the poſſeſsions which are like to fall to us after your death, do not any way in<g ref="char:EOLhyphen"/>cite us either to hope, or wiſh for your death; with that, the two other Brothers not able to containe any longer, deſired their Father to imploy them in any thing whereby they might expreſe their obedience to him, to which the King (joyful to ſée their paſsionate obedience) replyed, that there was but one way to ſave his life, which was to do according to the directi<g ref="char:EOLhyphen"/>ons of the Magitians, who informed him, that if he could by any means recover the <hi>Golden-Eagle</hi> from the Quéen of <hi>Ivy<g ref="char:EOLhyphen"/>land,</hi> that then he ſhould be reſtored to his former health; but ſayes he, I find it a thing impoſsible, therefore I ſhall not trouble my ſelf with the thoughts of obtaining it, for the Quéen is of that power and ſtrength, that if I ſhould perſwade any to attempt it, I ſhould be guilty of their deaths, and ſo depart this world with a burthened conſcience, but my Sonnes, I am very well content to leave thoſe ſlaveries which are atten<g ref="char:EOLhyphen"/>dants to a Crowne, I can only pray for you, and that's my uttermoſt.</p>
+               <p>Before the King had made an end of his intended diſcourſe, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sonnes interrupted him with fighes, that floated in teares, and as well as their ſorrows would permit, they in moſt hum<g ref="char:EOLhyphen"/>ble manner deſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the King to grant them a bonne before his departure, to which the King pleaſingly replyed, enjoy your deſires, provided ye ask what is neceſſary for me to give, ſpeak, what is your boon? to which they replyed:</p>
+               <p>Renowned Sir, It was not long ſince you were pleaſed to bleſs our eares with the diſcourſe of the Magitians, who have aſſured both you and us, that if the <hi>Golden Eagle</hi> can be recover<g ref="char:EOLhyphen"/>ed, your health ſhall be renewed; Then know Sir, that as our bodies are derivatives from you, ſo they are by all Laws what<g ref="char:EOLhyphen"/>ſoever
+<pb facs="tcp:31564:5"/>to be at your diſpoſing, and here we preſent our ſelbes before you, and proteſt with all our ſouls to hazard, nay loſe our lives, but we will obtaine the <hi>Eagle;</hi> for you know Sir, that reſolution backt with obedient affection, knows no impoſs ivi<g ref="char:EOLhyphen"/>lities; Sir we ſhall not ariſe from our knees till you have granted our requeſt, and at your Royal conſent we will forth<g ref="char:EOLhyphen"/>with flye into action.</p>
+               <p>The King ſeeing them ſo reſolved, thought it ſuperfluous to endeavour to diſcourſe them out of their reſolutions, but told them, that ſince their obedience made them ſo ready to undertake ſo great a hazard, his affections ſhould promp him, at their re<g ref="char:EOLhyphen"/>turn, to divide all his treaſure (which at that time was very great) amongſt them; in the mean time he adviſed them to pro<g ref="char:EOLhyphen"/>vide themſelves with what money they would, and all other accoutrements neceſſary for their adventure, which they accor<g ref="char:EOLhyphen"/>dingly did.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. </head>
+               <argument>
+                  <p>How the Kings three Sonnes provided for their journey, and took leave of their Father, and departed, and what happened be<g ref="char:EOLhyphen"/>tween them in their journey.</p>
+               </argument>
+               <p>THe three Brothers having prepared themſelves for their journey, came in humble manner to take leave of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King, who they found, as formerly very much troubled with melancholly, but the eldeſt addreſsing himſelf unto him, began in this manner:</p>
+               <floatingText xml:lang="eng" type="speech">
+                  <body>
+                     <opener>
+                        <salute>Royall Sir,</salute>
+                     </opener>
+                     <p>WE your moſt obedient ſonnes, in order to our dear affe<g ref="char:EOLhyphen"/>ctions, more then your Royal command, preſent our ſelves to crave your bleſsing upon us, and our deſtgnes, before our departure, not deſpairing of our deſires we humbly crave—</p>
+                  </body>
+               </floatingText>
+               <p>The King looking upon them with a countenance that imported
+<pb facs="tcp:31564:6"/>unexpreſſable grief for their departure, raiſed himſelf from his pillow, and with a ſtretched out arme gave them his bleſsing, withal adviſing them as they were Brothers in nature, ſo to continue Brothers in affaction, and to have a care that naither Eaby nor Ambition, or ambitious Enby ſhould raiſe a factious difference amongſt them, but as departed Brothers, and ſo con<g ref="char:EOLhyphen"/>ſequently friends, ſo they ſhould adventure and return in the like amitie they departed, and ſo the greateſt bleſsing a dying Father can beſtew upon his departing children accompanie you; but before you go, let me as a Father adviſe you of two things, the one is the diſpleaſure of the Gods by the neglect of your duty to them, the others is, the danger of evil companie which may ſeduce you to many inconveniencies, and ſo farwel; what I want in words I ſhall ſupply in thoughts.</p>
+               <p>Thus theſe three Brothers having received the ſumme of their deſtres, departed from the preſence of their Father, and ſo taking leave of their friends at Court, departed: At laſt, having jour<g ref="char:EOLhyphen"/>neyed three dayes, they came by the miſtake of their way into a great wood, where being in a wilderneſs of doubt, they con<g ref="char:EOLhyphen"/>ſulted what was beſt to do; <hi>Philonz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the elder Brother, begin<g ref="char:EOLhyphen"/>ning already to find the incumbrances of travel, expreſt himſelf to the others, as follows:</p>
+               <p>WEE ſée dear Brothers, the many troubles the want of conſideration brings upon us, we have (as I have <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it in my more ſerious thoughts) undertaken a moſt dangerous, troubleſome, and almoſt inpoſsible deſign; to prevent this, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall we adviſe? If we ſhould return home, we ſhould turn our noble undertakings to ignominie and ſhame, and it we proceed, without queſtion we ſhall loſe our lives, and what will the world ſay but this, they have the effect of their raſbueſs; for the more dangerous a deſigne is, the more it ought to be diſcuſt, but that like <hi>Phaeton,</hi> mount at impoſs vili<g ref="char:EOLhyphen"/>ties, ſhall at laſt fall like <hi>Phaeton,</hi> with ſhame and diſhonour; therefore Brothers let me hear your advice, to which <hi>Cruentius</hi> the ſecond Brother replyed:</p>
+               <p>
+                  <pb facs="tcp:31564:6"/>
+'Tis true, raſh beginnings have moſt commonly fatal con<g ref="char:EOLhyphen"/>cluſions: For my part, as yet I never weighed the buſineſs, nor the danger, but altogether depended upon your judgment as an Oracle, not dreaming but you had known ſhe difficul<g ref="char:EOLhyphen"/>tie of the buſtneſs: But ſtay now, I better conſider the mat<g ref="char:EOLhyphen"/>ter, methinks it ſhould not be ſo difficult, for ſure we three can conquer one <hi>Eagle;</hi> for Brother you ſhall catch her, and I will warant you my Brother and I will hold her, but where ſhall we find her? fle Brother, quoth <hi>Philonzo,</hi> I ſie you as much erre in the matter as I did in the manner of the buſtneſs. This <hi>Eagle</hi> is a bird kept for her Soveraigntie in a great City walled round with braſs, pallazado'd with yron, guarded with Lyons and Dragons, and commanded by Gyants, and we muſt before we come to this City Encounter with ſeveral Knights which attend purpoſely for ſuch attempters as we muſt be: Many have attempted, but never any as yet return<g ref="char:EOLhyphen"/>ed to tell the manner of their attempts; therefore Brother the buſineſs is of more intricacy then you imagine. O mon<g ref="char:EOLhyphen"/>ſtrous cryed <hi>Cruentius,</hi> I am more then half dead already with the relation, talke no more of it. What, Dragons, and Bears, Lyons, and Gyants, Brazen wals, and yron Pallizadoes? Oh how I am thundred to death, attempt it who will, for my part I will ſtarve here rather then be earen with Bears and Lyons, and Dragons, and—oh borrible Gyants, not I, Brother <hi>Innocentine</hi> what ſayeſt thou to theſe terrible things? what, art not afraid? well, I have fear enough for you both, but good Brother ſpeak, to which <hi>Innocentine</hi> the younger un<g ref="char:EOLhyphen"/>dauntedly replyed:</p>
+               <p>AS I am youngeſt in years, ſo I am laſt in ſpéech, and I could wiſh I might be the leaſt; but in reſpect I am to make anſwer to both your demands, I muſt a little exerciſe your patience. 'Tis true, the danger is great, therefore the more noble, but had you my Brrethren, according to my Fathers advice, importuned the gods before you had undertaken this great deſigne, queſtionleſs the one had not been ſo filled with
+<pb facs="tcp:31564:7"/>doubts, nor the other with feares, nor I with ſhame for you both; you ſeem to be as much diſpleaſed at my words as I am at your actions; ſhall we begin to tyre before we begin to doe? for ſhame let not the world have this advantage of our reputa<g ref="char:EOLhyphen"/>tions; if we returne home, we muſt expect to undergoe a diſ<g ref="char:EOLhyphen"/>grace worſe then death; if we dye, we dye in high attempts, who knows but that the gods may ſhew extraordinary favours, and ſmile at our deſignes, being we doe it for our dear Fa<g ref="char:EOLhyphen"/>thers life: If the worſt come to the worſt, we can but dye, and we had better doe ſo then live as if we lived not, but I perceive my diſcourſe offends, I will be therefore ſilent.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. </head>
+               <argument>
+                  <p>How Philonzo and Cruentius hearing the diſcourſe of their young<g ref="char:EOLhyphen"/>er Brother Innocentine, robb'd him of his treaſure, and left him bound in a Wood, where they afterwards loſt themſelves.</p>
+               </argument>
+               <p>
+                  <hi>CRuentius</hi> hearing his Brothers diſcourſe, which was con<g ref="char:EOLhyphen"/>trary to his expectations, told him that he was a very raſh boy, and underſtood not what he ſpoke; for ſayes he, ſhall we caſt away our lives becauſe the world ſhould ſay we died nobly: Brother, ſayes he to <hi>Philonzo,</hi> are we bound to be fools be<g ref="char:EOLhyphen"/>cauſe he's mad, no, let's leave him to his thoughts of ho<g ref="char:EOLhyphen"/>nour, whilſt you and I conſult what's beſt to doe; ſo walking a diſtance from him, they ſate down, and began thus to ex<g ref="char:EOLhyphen"/>preſs themſelves:</p>
+               <p>Brother <hi>Philonzo,</hi> I have in this ſhort time both conſidered the ſhame and the danger, let us endeavour to haſte to <hi>Meſemp<g ref="char:EOLhyphen"/>tronia,</hi> a City which I am ſure cannot be farre from this place, where we may refreſh our ſelves, and have further diſcourſe; but what ſhall we doe, replied <hi>Cruentius,</hi> with you fooliſh boy, you perceive how refractory and inconſiderate he is, and makes ſight of that danger which we know to be very great: If we leave him, queſtionleſs he will return home and incenſe the
+<pb facs="tcp:31564:7"/>King againſt us, what we ſhall doe in this I know not, but leave it to your diſcretion, let's force him with us, quoth <hi>Phi<g ref="char:EOLhyphen"/>lonzo,</hi> and make him doe according to our wills, if not, we will threaten to kill him; no quoth <hi>Cruentius,</hi> that cannot be, for then he will prie into all our actions, and make a diſcovery at out returnes; but Brother, quoth he, our buſſineſs re<g ref="char:EOLhyphen"/>quires haſte, let us therefore take away his treaſure, and bind him, and ſo leave him in the Wood, for it is better one periſh then two, and if the worſt come to the worſt, that he ſhould be unlooſed and returne home: We know at our returne how to perſwade that what he has related is only lies to diſgrace us, and by that means to inſinuate the more into favour himſelf, and injure us. I like this advice well, quoth <hi>Philonzo,</hi> let us quickly put in execution, for the night haſtens; with that re<g ref="char:EOLhyphen"/>turning to <hi>Innocentine,</hi> they asked him what he intended to doe, who replied, what they did not, and ſo you ſhall quoth <hi>Cruentius,</hi> and ſo both running together laid hold on him, and without hearing him ſpeak, bound him, and took away his treaſure, turning his horſe looſe to range in the Woods, they departed. Thus lay poore <hi>Innocentine</hi> miſerably bound, inſo<g ref="char:EOLhyphen"/>much that the ſwelling of hie hands and féet made him moſt ſad<g ref="char:EOLhyphen"/>ly lament his grievous tortures; but <hi>Philonzo</hi> and <hi>Cruentius</hi> having rambled up and down the Wood for the ſpace of two hours, could by no means finde the way out, inſomuch that they deſpaired of travelling any further way out that night but having not rode a flight-ſhot further, it happened that a dog having loſt his Maſter, came fawning on <hi>Cruentius,</hi> who pre<g ref="char:EOLhyphen"/>ſently laid hold of him, and tying him in a ſtring, followed the dog, who forthwith brought them out of the Wood, and pre<g ref="char:EOLhyphen"/>ſently after to a Shéepherds houſe, where the dog found ſpéedy entertainment, but <hi>Philonzo</hi> and <hi>Cruentius</hi> none, where we ſhall for a time leave them, and return to <hi>Innocentine,</hi> who they left bound in the Wood.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:31564:8"/>
+               <head>CHAP. V. </head>
+               <argument>
+                  <p>How Innocentine was unbound by an Hermit, and how afterwards he ſaved a beautiful Lady from raviſhment, and how the Lady requited him.</p>
+               </argument>
+               <p>
+                  <hi>INnocentine</hi> being faſt bound by his unnatural Brothers, lay till the approach of the evening in a moſt lamentable condi<g ref="char:EOLhyphen"/>dition, till at laſt a Hermit comming from his Cell, to take the benefit of the coole of the evening, heard the ſad groanes of poore <hi>Innocentine,</hi> and being moved with pity, he addreſſed himſelf to the place (I may well ſay) of groans, where being come, his eye ſaw what his heart pitied, his heart pitied what his hand relieved, for he forthwith conducted him to his Cell, and made ſuch preparations for him as his neceſſity required, ſo that the next morning he was in a condition to travel; but the Hermit viewing his gueſt, read in his countenance the characters of a noble and ingenuous diſpoſition, obſerving by his deportment, that he was not a man of an ordinary educa<g ref="char:EOLhyphen"/>tion, beſides being led by his own inclinations, he accoſts his ſtranger in this manner:</p>
+               <floatingText xml:lang="eng" type="speech">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>eive that your youth and education prompts you to baſh<g ref="char:EOLhyphen"/>fulneſs, and your baſhfulneſs hinders the liberty of your ſpéech, I therefore h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>tily intreat you to informe me of your preſent condition, and what I want in power, I will ſup<g ref="char:EOLhyphen"/>ply in prayer for you, I will not ſtand to trouble you to relate the misfortunes, it is enough, and too much that I ſaw them, only tell me which way you intend to ſteere, and what you want.</p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Innocentine</hi> all this while amazed at the courteſte of the Hermit, knew not preſently what to anſwer, but as well as his late diſtemper attended with a multitude of thoughts would permit, he thus replied:</p>
+               <p>
+                  <pb facs="tcp:31564:8"/>
+Moſt charitable Father, I could grieve that I was forry for my laſt misfortune, in reſpect that the happineſs of your acquaintance is derived from it, I will not trouble your pa<g ref="char:EOLhyphen"/>tience with the diſcourſe of my misfortune, only in ſhort, I am going upon a deſigne to ſave the life of a renowned King, but this misfortune hath put me out of a capacitie to follow my in<g ref="char:EOLhyphen"/>tentions; come ſayes the Hermit I know your diſeaſe, I'le be your Phyſition, take this cordlal (giving him a bag of Gold and Iewels) and returne no complemental anſwer, for I am bound to doe it, and if you want a Stéeed, I have one for you which this very day ſtragled hither, pray take him and uſe him as your owne; but for this ſword, which I intend for your uſe, pray returne it if you live, if not conceale the vertue, for it will preſerve you againſt all enchantments, which are now very common to my wofull experience; neither néed you fear who you encounter with it, for you ſhall not want ſucceſs. <hi>Innocentine,</hi> not a little rejoiced at what the Hermit had told him, deſired liberty to depart, in order to which the Hermit conducted him to his horſe, but it fell out that the horſe was his owne, which he thought his Brothers had carried away with them; the Hermit obſerving him looke ſo ſtrictly upon the horſe, told him that he could not promiſe him the like ſervice from the horſe as he did from the ſword; no Sir, quoth <hi>Innocentine.</hi> I beléeve I am better acquainted with the horſe than you, for yeſterday he was mine, till taken from me by misfortune; but however I cannot but expreſs my hearty thanks <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my returne you ſhall know more of me, in the mean time, let peace abide with you, let me only beg your <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ections towards <hi>Green Iveland,</hi> for I am altogether a ſtranger in theſe parts; your ready way, quoth the Hermit, is to goe to <hi>Meſemptronis,</hi> a City about thrée leagues from hence, the way is very direct through ſeveral Villages, where you may at your pleaſure en<g ref="char:EOLhyphen"/>quire, but there is a Forreſt which lies betwéen a little Town called <hi>Corumbus</hi> and <hi>Meſemptronia,</hi> where you muſt have a care<g ref="char:EOLhyphen"/>ful eye, leſt you be ſet upon before you can provide for reſiſtance, this is all that I can adviſe you, and ſo farewel.</p>
+               <p>
+                  <pb facs="tcp:31564:9"/>
+Thus they departed, and after the expence of ſome hours, <hi>Innocentine</hi> came to the Forreſt which the Hermit told him of, where he was no ſooner entred, but he was welcomed with many loud and lamentable ſchréekes, which ſtrucke him into admi<g ref="char:EOLhyphen"/>ration; but being of an undaunted ſpirit, and remembring the ſad eſtate he himſelf was in the day before reſolved to find out the place where he heard this lamentable noiſe; and being more directed by the eare then the eye, he at length effected his deſires, for immediately in a valley he eſpied two villaines about to raviſh a Lady of an incomparable beauty, and being paſſionately exaſperated, he flew upon them like lightning, but giving them leave to mount themſelves, they inſtead of fight, preſently run away, perceiving it was their Brother: <hi>Innocentine</hi> perceiving their flight, clapt ſpurres and followed them, but the Lady perceiving it, was fearful that two to one might be very diſadvantagious, cryed out with what ſtrength ſhe had, help, help, which <hi>Innocentine</hi> hearing, fearing ſome other accident had befallen the Lady, ſpéedily returned, but when he came he found no ſuch matter, but the Lady being heartily glad of his returne, applied her ſelf to him in this man<g ref="char:EOLhyphen"/>ner:</p>
+               <p>Moſt noble and renowned Knight, my late fright hath ſo diſordered my thoughts, that for the preſent I cannot returne you thoſe thanks which are due to your merits; but if you pleaſe to adde one favour more to the reſt, which is to con<g ref="char:EOLhyphen"/>duct me to my <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> habitation (from which place thoſe villaines you ſaw, having ſurpriſed me in a ſolitarie walk, dragg'd me) you will very much increaſe my happineſs; to which requeſt <hi>Innocentine</hi> condeſcended, and in a ſhort time came to the place where he found a welcome entertainment: ſo after many Cere<g ref="char:EOLhyphen"/>monies paſt betwéen them, the Lady requeſted to know what his name and birth was, to which <hi>Innocentine</hi> replied; ſo ſo much confidence have I of your worth, that I will not kéep the leaſt of my thoughts from you; ſo compoſting himſelf, he told her his name, birth and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and likewiſe told her how his Brothers had dealt with him, which he was confident
+<pb facs="tcp:31564:9"/>was thoſe which would have raviſhed her, had not he by pro<g ref="char:EOLhyphen"/>vidence preſerved; the Lady hearing his relation, was much aſtoniſhed, but at laſt recalling her ſelf from her admiration, proceeded as followes:</p>
+               <p>Moſt magnanimous and ingenious Knight, I cannot but acknowledge my life and honour to be protected by your ver<g ref="char:EOLhyphen"/>tue, I ſhall therefore in part of a requital communicate ſome<g ref="char:EOLhyphen"/>thing to you for your advantage, which in ſhort is this:</p>
+               <p>Not farr from this place there is an enchanted Caſtle kept by two Ladies, at which Caſtle (if you pleaſe to goe) you ſhall find civil entertainment from the Ladies, one of them will much preſs you to marriage, but by no means conſent, but promiſe at your returne to give ſatisfaction to her requeſt, tell them likewiſe that you have a ſhort journey to take, but the horſe dying in the journey you are now quite deſtitute, then they will preſently carrie you into a ſpacious Stable, where they will ſhew you many Stéeds, and bid you take your choice, but refuſe them all, but one, which ſéems to be the meaneſt there, and they will be very unwilling to lend you him; You ſhall know him by this ſigne, as ſoone as you come into the Stable you ſhall find him laid, and all the reſt ſtanding. I will not now any longer detaine you, leave your horſe with me till your returne, and you ſhall accompliſh your buſtneſs, thus <hi>Innocentine</hi> and the Lady parted, but we will now leave him, and returne to the other Brothers, which are by this time come to <hi>Meſemptronia.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb facs="tcp:31564:10"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>How Philonzo and Cruentius came to the Shepheards houſe, but could not be entertained, and how they lay under an Oke that night, and the next morning took their journey for Me<g ref="char:EOLhyphen"/>ſemptrome.</p>
+               </argument>
+               <p>
+                  <hi>Philonzo</hi> and <hi>Cruentius</hi> being come to the Shepheards houſe, immediately alighted and knockt at the door, but the old Shepheard and his wife being newly gone to bed, were very unwilling to riſe, at laſt the Shepheard hearing them grow more violent in their knockes, aroſe, and looked out of (I cannot ſay the window) but out of a hole, or crannie, and asked who was there; to which <hi>Philonzo</hi> replied, a couple of Paſſengers which had loſt their way in a Wood, and by a dog which they followed, were brought thither. The Shepheards wife which but a little before was awaked out of her ſléep with ſighing for the loſs of her dog, ſtarts out of her bed and cries, oh her dear <hi>Cut,</hi> and ſo runs down and lets in her dog, and after many expreſſions of inſufferable joy, having entertained her dog with many a ſwéet kiſſe, ſhe went to bed and ſlept very heartily, whilſt <hi>Philonzo</hi> and <hi>Cruentius</hi> begg'd very earneſtly for entertainment to protect them from a ſtorme which they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was haſtning upon them, but all their intreaties were in vaine; for this Shepheard told them, that he and his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were abuſed not long ſince by a couple that deſired to be entertained, as they did, and therefore he would not admit them by any means: At laſt, when they ſaw their intreaties were in vaine, they departed, truſting themſelves to the protection of an Oke, where they had not long repoſed, but a great tempeſt of thunder and lightning deſiurbed them of their reſt, ſo that they forſooke the place, as deeming it dangerous to lie there in ſuch tempeſtuous weather; ſo wandring up and down all night, without any reſt, in the morning they pre<g ref="char:EOLhyphen"/>pared
+<pb facs="tcp:31564:10"/>for their journey, and being at laſt refreſhed with the heate of the Sunne, they ſpurred heerfully along till they came within view of a (not ſtatelie) but well ſcituated houſe, not far from which they eſpied a beautiful Lady walking ſo ſolitarie, that ſhe hardly tooke notice of her own thoughts: <hi>Philonzo</hi> riding towards her, and ſurpriſing her on a ſudden, put her in<g ref="char:EOLhyphen"/>to ſuch an amaſement, that for the preſent ſhe neither knew what to do, or ſay; but <hi>Philonzo</hi> well skill'd in the rudi<g ref="char:EOLhyphen"/>ments of malitious impudence, begins to accoſt her in this manner:</p>
+               <p>Madam, quoth he, I very much commend your choice, you have choſen a pleaſant morning, and a ſweet air for your pri<g ref="char:EOLhyphen"/>vate meditations; Sir, replied the Lady, the walke and air would be more pleaſant if you were further from it, I wonder a Knight, as you ſéem to be ſhould be ſo unadviſed, or rather uncivil, to intrude without notice, or acquaintance; Sir, if you are noble, ſhew it by your forbearance, to which replied <hi>Philonzo:</hi>
+               </p>
+               <p>Madam, had you béen leſs beautiful, I had béen leſs ambi<g ref="char:EOLhyphen"/>tious, but Madam your beautie is the Author of my bold in<g ref="char:EOLhyphen"/>truſton; but I hope you have goodneſs to pardon, as well as I have infirmities to offend; Sir, quoth the Lady, the vanitie of Courtſhip hath taught me to diſlike a Courtier, I will there<g ref="char:EOLhyphen"/>fore leave my walke to your enjoyment. Nay, quoth <hi>Phi<g ref="char:EOLhyphen"/>lonzo,</hi> I cannot ſo ſuddenly diſmiſs you, for your beautie has made a conqueſt of my heart, ſo either return what your be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tie has robb'd me of, or I muſt be inforced <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it. Sir, quoth the Lady, I neither know your intent, nor meaning, but I expect you to be civil, therefore pray wr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng not my expectati<g ref="char:EOLhyphen"/>ons: At which words <hi>Philonzo</hi> beckning to his Brother <hi>Cru<g ref="char:EOLhyphen"/>entine,</hi> that ſtood within ſight, preſently with much rigour and incivilitie layd hold on her, and dragg'd her into a Forreſt which was within half a mile, being aſsiſted by his Brother <hi>Cruentine;</hi> I need not tell the Reader, of the many tears, the grievous complaints, the ſundrie prayers this poor diſtreſ<g ref="char:EOLhyphen"/>ed Lady made to theſe unhumane Villaines, but all to no purpoſe: For had not an unexpected Knight paſſed by, who
+<pb facs="tcp:31564:11"/>hearing the skreeks of one in diſtreſs, boldly approached to the place, where he found theſe Villaines endeavouring to rob her of her chaſtitie who they ſpying perceived him to be their Brother which they left bound in the Wood, ran away, and at laſt ar<g ref="char:EOLhyphen"/>rived at <hi>Meſemptronia,</hi> where being come, they preſently went to their Inne, and ſo to reſt, not the leaſt troubled at their Barbarous crueltie; the next morning approaching, they aroſe, and commanded a plentiful dinner to be provided, and that ſuch companie as the City afforded ſhould be invited to keep them companie, being ſtrangers, at that time, to which their hoſt preferring his own gain, condeſcended, and forthwith ſent for a crew of the moſt notoriouſeſt cheats the Towne could afford, who very plauſibly treated the new come gueſts, telling them of many Courtiſans that the City abound<g ref="char:EOLhyphen"/>ed withal, which were preſently ſent for, and a great banquet provided, to the admiration of the diligently joyful hoſt; but after ſome dayes of their abode, they began to féel a conſum<g ref="char:EOLhyphen"/>ption in their pockets, which cauſed them to conſult of their departure.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. </head>
+               <argument>
+                  <p>How Innocentine his deſire in the inchanted Caſtle, with a pro<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to return; how he recovered the Golden Eagle from the Queen of Green Ivy-land, whoſe horſe was turned into a man who afterwards directed him what to do.</p>
+               </argument>
+               <p>AFter <hi>Innocentine</hi> perceiv'd which Steed it was which the Lady adviſed him to requeſt, he was very importunate with the Ladies to let him have that horſe which was laid, to which they replyed, alas, that was the worſt in the ſtable, de<g ref="char:EOLhyphen"/>ſiring him to make ſome other choice; but he replyed, that the other were too good and too luſty for him, in reſpect that he was a very bad horſeman. The Ladies ſéeing that he would not be
+<pb facs="tcp:31564:11"/>denyed, endeavoured to inchaunt him, but their inchantments would not take effect, becauſe the Hermit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſword was his preſervative. Thus ſéeing all their labour in vain, they made him ſwear that he would return again, and he ſhould have his deſtres; but to be ſhort, having ſwore according to their de<g ref="char:EOLhyphen"/>ſires, the horſe was brought forth, he leaping upon him, was on a ſudden carried to <hi>Green Ivy-land,</hi> and in his journey over<g ref="char:EOLhyphen"/>threw many Knights which waited there on purpoſe to encoun<g ref="char:EOLhyphen"/>ter any that ſhould approach; but he with his good ſword and Steed made ſlight of them, then he approached to the brazen wals where he was welcomed with the roaring of Lyons and Dragons, but as he brandiſhed his ſword they fell into a dead ſleep, then <hi>Innocentine</hi> paſſed freely, not long after he came to a Fort that was guarded by Gyants, who when they per<g ref="char:EOLhyphen"/>ceived his approach, preſently came running at him with great violence, but he no ſooner brandiſhed his ſword but they fell all a ſleep; at length, having many more difficulties, which are now too tedious to relate, he came to the place where the Quéen and the Eagle was; The Queen and her attendance beholding a ſtranger ſo near her preſence, began to rebuke his inſolencie, but he brandiſhing his ſword, the Queen and all her attendants ſell aſleep, inſomuch that they could not be waked, in the mean time <hi>Innocentine</hi> alighted and took the Eagle, with no ſmall joy, and was departing, but his horſe would not by any meanes ſtir a foot from the place, which made <hi>Innocent<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> in a doubt what to do; but beholding the incomparable beautie of the Queen, he drew near and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her as ſhe ſlept, after which <hi>Innocentine</hi> cnt off a lock of the Quéens haire and left a locke of his in her boſome, and then he took a ring of rich value from her finger, and put one of his in the ſame place; then finding her picture about her neck, he took that off and ſupplyed the place with his own. Having done theſe things, he writes theſe lines, and pinnes them upon the ſleve of her garment:
+<pb facs="tcp:31564:12"/>
+                  <q>
+                     <l>Renowned Queen, what here is done,</l>
+                     <l>Was acted by a Monarchs ſonne:</l>
+                     <l>But before I could depart,</l>
+                     <l>I took your Eagle, leſt my heart,</l>
+                     <l>Accept the change, and pardon the abuſe,</l>
+                     <l>Virtue whilſt you remain will be in uſe.</l>
+                  </q>
+               </p>
+               <p>Having thus done, he mounts his horſe with the Eagle in his hand, and was immediately brought to the Forreſt where be preſerved the Lady from raviſhment: his ſtéed making aſtand at a great River, would not go any further, notwithſtanding <hi>Innocentine</hi> uſed all the skill he could with ſwitch and ſpurre, but at laſt his horſe ſpake, and bid him forbear and a light; <hi>Innocentine</hi> not a little amazed, alighted, then the horſe be<g ref="char:EOLhyphen"/>gan to tell him that he muſt chop off his head, and throw it into that River, withal bidding him not to be afraid, for he intended him no harm, but ſayes he, when you have thrown me in, ſtand with your ſword by the River, and in what ſhape ſoever you ſée me appear knock me down again, till I ariſe in the ſhape of a man; <hi>Innocentine</hi> being ſomething a<g ref="char:EOLhyphen"/>mazed at this ſudden and ſtrange alteration, knew not for the preſent what to do, but after a little pauſe he reſolved to do it, which being done, he threw the head into the River, and it roſe up the firſt time like a Lion, but he preſently knockt it down, then it roſe up in ſeveral other ſhapes but he ſtill kept it down but at laſt it aroſe like a tall proper man, and then he help it out which being done, the man bid him fear nothing but follow his adviſe, and give eare to him whilſt he informed him of ſomething which might conduce to his benefit: I was, ſaith he, a Knight in<g ref="char:EOLhyphen"/>channted in that Caſtle that you had me out of, and all thoſe fair Stéeds you ſaw were inchaunted Knights, I am likewiſe the husband of that Lady you preſerved from the violence of your Brothers; which Brothers will meet with you before yuu come home, with full reſolution to kill you, but fear not, hide the King
+<pb facs="tcp:31564:12"/>and Picture which you had of the Quéen, and deſire them not to kill you, but tell them you will never diſcover them to your Father, then they ſhall take away your Eagle and let you go; thus as you have preſerved me and mine, I will preſerve you and yours.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. </head>
+               <argument>
+                  <p>How Philonzo and Cruentius obtained a counterfeit Eagle in the City of the Meſemptronia, and returning home met their you<g ref="char:EOLhyphen"/>ger Brother Innocentine, and robb'd him of his Eagle, and what after happened.</p>
+               </argument>
+               <p>
+                  <hi>PHilonzo</hi> and <hi>Cruentius</hi> having ſpent moſt of their money, at laſt agréed with ſome in the City to get him an Eagle, which they pretented thy could do, which was not long effecting, for they got a very great Fowle, the neareſt they could like a Eagle, and gilded his feathers, and brought it to them, which they with much joy accepted, giving a large ſumme for it, and forthwith departed the City; but as they travelled, it was their fortune to meet their Brother <hi>Innocentine</hi> carrying an Eagle in a filver cage, at the ſight whereof their Eagle trembled and dyed, but without the leaſt ſalute to their Bro<g ref="char:EOLhyphen"/>ther they run upon him and would have killed him, but he according to his adviſe had hid the King and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cture in a pri<g ref="char:EOLhyphen"/>vate place about him, which they diſcovered not, but took away Cage and Eagle, with full <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ent to kill him; but he with many paſsionate expreſsions diverted their intentions, promiſing them to become their Servant, and never be<g ref="char:EOLhyphen"/>tray them to his Father; they hearing theſe promiſes, ſaved his life, and ſo he became their Servant, and they journeyed together, at laſt comming home and carrying their Eagle in tri<g ref="char:EOLhyphen"/>triumph, they were joyfully entertained, the King embracing the two eldeſt, and commanding the youngeſt to be imme<g ref="char:EOLhyphen"/>diately put to death for thoſe lies which his Brothers had
+<pb facs="tcp:31564:13"/>related of him; but <hi>Innocentine</hi> heartilie begg'd of his Father that he might not be put to death, and ſo did his Brothers ſéemingly, but that he might be made inſeriour to the worſt ſervant in the houſe, to which the King, though unwilling, agréed; this was poore <hi>Innocentine,</hi> that deſerved a juſt reward, caſt out of his Fathers favour for ever; but it happened that not long after the Quéen of <hi>Green Ivyland,</hi> hearing where her Eagle was, came with a great Traine to <hi>Arigon,</hi> and preſent<g ref="char:EOLhyphen"/>ed her ſelf to the King, who was abſolutelie cured by the vertue of the <hi>Eagle,</hi> the Queen receiving that vountiful entertainment which her eſtate required, asked the King how many ſonnes be had, to which the King replied, two, ſhe deſired ſhe might be allowed ſo great a ſavour as to ſée them, immediatelie they appeared; ſo ſhe called <hi>Philonzo,</hi> and asked him if he was the man that made ſo gallant an attempt for her Eagle, he replied, it was his poore endeavour that obtained it, pray, ſayes ſhe, let me ſée ſome aſſurance, did you leave me nothing, nor take nothing from me, no replied <hi>Philonzo,</hi> then quoth the Quéen you are not the man; after him was preſented <hi>Cruentius,</hi> who the Quéen in the like manner gréeted, but he replied as <hi>Phi<g ref="char:EOLhyphen"/>lonzo</hi> did, that he took nothing from her, nor left any thing with her. The Quéen concealing her anger, told the King that theſe miſteries paſt her imaginations, deſtred the King ingeniouſtie to tell her if he had no more ſonnes, Kenowned Quéen I muſt confeſs I had another ſonne, which now I own not, I think he may be living amongſt the mean ſervants of my houſe, but for a ſonne, I own him not, to which the Quéen replied, ſhe muſt needs ſee him; alas replied the King; I thinke him not worthy of my preſence, much more of ſo re<g ref="char:EOLhyphen"/>nowned a Quéen as your ſelf: but to ſatisſte your requeſts, he ſhall be called, in the mean time the King departed, whilſt <hi>In<g ref="char:EOLhyphen"/>nocentine</hi> approached the Quéens preſence, to whom the Quéen diſcourſt as followes:</p>
+               <p>Are you the youngeſt Son of this Koyal King, or no? he replied with a bluſhing countenance, no; what, are you his ſervant? he replied no: Friend, you ſpeake very miſteriouſly,
+<pb facs="tcp:31564:13"/>diſcover they ſelf; then know incomparable Lady, that my Father being incens'd againſt me condemned me to dye, but by the requeſt of my Brothers I was preſerved, and became a ſervant to the worſt of my Fathers ſervants, contenting my ſelf with theſe poor babilliments, which indéed were they as rich as could be imagined, were too mean to be preſented before ſo worthy a perſon, as Madam, you are, and for my ſelf. I could tremble into aſhes at the ſight of ſo excellent a creature as your vertuous ſelf, but I ſhall remove ſo unworthy an object from your fight, and crave licenſe to depart; no replied the Quéen, you ſhall not, I have a few queſtions to aske you; my rude<g ref="char:EOLhyphen"/>neſs moſt unparalled Lady ſhall be as obedient to reply, as your Grace ſhall be ready to demand, although I am unworthy to be the leaſt of your creatures. The Quéen hearing him ex<g ref="char:EOLhyphen"/>preſs himſelf with ſo much humilitie and excellencie of ſpéech, the King forgetting that his Son was there, came ſuddenlie into the preſence of the Quéen, and beholding his out-caſt, ſtarted backe, the Quéen perceiving it, deſired the King to yield her ſo great a favour as to ſtay to hear her aske his Son two or thrée queſtions, the King not uſing to deny the requeſt of ſuch perſons, ſate down, whilſt the Quéen thus expreſt her ſelf to <hi>Innocentine:</hi> Was it you that took my Eagle from me, pray anſwer me without ceremonie: To which he vow<g ref="char:EOLhyphen"/>ing himſelf replied, Madam I did, and what token left you with me, or took from me? Madam, a lock of your hair, where is it replied the Quéen? next my heart, Madam, replyed <hi>Innocentine,</hi> and here it is; but what <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leave me, ſaid the Quéen? a lock of mine replied <hi>Innocentine</hi> (great Prince ſaid the Quéen to the King) and here it is; but pray let your patience expect my further diſcourſe with him come hither, ſaid the Quéen, to vaſhful <hi>Innocentine,</hi> doe you know this pi<g ref="char:EOLhyphen"/>cture and this King? yes, Madam, and I hope your greatneſs knows theſe (ſhewing her the picture and the King which he had took from her) come ſaies the Quéen, give me the picture, and inſtead of the ſhadow, take the ſubſtance, I am reſolved renowned King, not to depart, till I have made him poſſeſſor
+<pb facs="tcp:31564:14"/>of all I have, admire it not; for it is nothing but truth. The King like a man tranſported, at firſt thought the Quéen to be poſſeſt of a frenzie, but after more ſerious debate, found all truth which ſhée had related, and preſently ſent for his two Sons, <hi>Philonzo</hi> and <hi>Cruentine,</hi> and commands their heads to be ſtruck off, but <hi>Innocentine</hi> ſeconded with his incomparable Lady, perſwaded his Father to ſave their lives, and baniſh them; which the King, though unwillingly conſented to, af<g ref="char:EOLhyphen"/>ter which he imbraced his Son, and told him, in requital of his great abuſes, he would ſettle his Kingdom upon him. The Quéen joyful to ſée the King imbrace his Son, deſired the King that hereafter he would pleaſe to own her as his obedient Daughter. So <hi>Innocentine</hi> and the Quéen were ſhortly after married and departed into their own Countrey of <hi>Ivyland.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:31564:14"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
